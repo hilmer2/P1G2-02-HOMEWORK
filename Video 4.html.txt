@@ -1,0 +1,20 @@
+var numero_uno = 30;
+
+var numero_dos = "30";
+
+if(numero_uno === numero_dos){
+  console.log("Devuelve falso");
+}else if(false){
+
+}
+else if(false){
+
+}
+else{
+  console.log(":P");
+}
+
+// bool-> true / false
+
+/*Operadores lógicos */
+// > mayor que
